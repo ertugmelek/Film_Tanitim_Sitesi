@@ -1,0 +1,81 @@
+c:\users\casper\documents\visual studio 2012\Projects\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+c:\users\casper\documents\visual studio 2012\Projects\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+c:\users\casper\documents\visual studio 2012\Projects\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2012\Projects\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+c:\users\casper\documents\visual studio 2012\Projects\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll.config
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.xml
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll.config
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.pdb
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.dll
+C:\Users\nbuy_ogrenci\Desktop\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.xml
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.pdb
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.BLL.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DTO.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.Entity.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.xml
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.DAL.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.dll
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\obj\Debug\FilmSitesi.UI.pdb
+C:\Users\CASPER\Desktop\bilgeAdam\html\17-film sitesi\FilmSitesi\FilmSitesi\FilmSitesi\FilmSitesi.UI\bin\FilmSitesi.UI.dll.config
